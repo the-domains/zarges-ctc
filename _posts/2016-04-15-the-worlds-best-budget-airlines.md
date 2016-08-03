@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-03T11:04:51.903Z'
+datePublished: '2016-08-03T11:45:19.020Z'
 sourcePath: _posts/2016-04-15-the-worlds-best-budget-airlines.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.thrillist.com/travel/nation/the-worlds-best-budget-airlines-southwest-easyjet-icelandair/travel
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - airline
   - low-cost
@@ -25,7 +23,7 @@ author:
   - name: '@mmeltrez'
     url: 'https://www.twitter.com/@mmeltrez'
     avatar: {}
-dateModified: '2016-08-03T11:04:50.919Z'
+dateModified: '2016-08-03T11:45:18.508Z'
 title: The World's Best Budget Airlines
 app_links:
   - namespace: twitter
@@ -42,6 +40,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: the-worlds-best-budget-airlines/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
