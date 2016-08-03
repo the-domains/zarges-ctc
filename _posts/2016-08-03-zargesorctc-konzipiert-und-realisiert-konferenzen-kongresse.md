@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-03T11:18:23.056Z'
+datePublished: '2016-08-03T11:24:06.624Z'
 sourcePath: >-
   _posts/2016-08-03-zargesorctc-konzipiert-und-realisiert-konferenzen-kongresse.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17fb15e4-e4c7-4f71-9e7c-b1a785ecd6ba.jpg
 author: []
 via: {}
-dateModified: '2016-08-03T11:18:22.355Z'
+dateModified: '2016-08-03T11:24:06.082Z'
 title: Was wir tun
 publisher: {}
 description: >-
