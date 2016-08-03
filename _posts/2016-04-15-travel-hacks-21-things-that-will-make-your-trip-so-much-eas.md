@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-03T11:04:51.921Z'
+datePublished: '2016-08-03T11:49:41.552Z'
 sourcePath: >-
   _posts/2016-04-15-travel-hacks-21-things-that-will-make-your-trip-so-much-eas.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.popsugar.com/smart-living/Cool-Travel-Products-35307351#photo-35307351
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - travel
   - tangled
@@ -23,7 +21,7 @@ author:
   - name: Hilary White
     url: 'http://www.popsugar.com/author/Hilary-White'
     avatar: {}
-dateModified: '2016-08-03T11:04:50.770Z'
+dateModified: '2016-08-03T11:49:41.013Z'
 title: 'Travel Hacks: 21 Things That Will Make Your Trip So Much Easier'
 app_links: []
 publisher:
@@ -40,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: travel-hacks-21-things-that-will-make-your-trip-so-much-eas/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
