@@ -17,17 +17,14 @@ description: >-
   sterben musste - und zieht den Zuschauer in einen unentrinnbaren Sog.
 inLanguage: de
 app_links: []
-isBasedOnUrl: >-
-  http://www.dwdl.de/madeineurope/56992/london_spy_der_agententhriller_der_gar_keiner_ist/
 title: '"London Spy": Der Agenten-Thriller, der gar keiner ist - DWDL.de'
-datePublished: '2016-08-03T11:38:10.312Z'
-dateModified: '2016-08-03T11:37:55.623Z'
+datePublished: '2016-08-03T11:44:15.136Z'
+dateModified: '2016-08-03T11:44:14.511Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-03-london-spy-der-agenten-thriller-der-gar-keiner-ist-dwd.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: london-spy-der-agenten-thriller-der-gar-keiner-ist-dwd/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
