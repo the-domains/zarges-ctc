@@ -19,11 +19,11 @@ navigation:
   - name: Was wir tun
     id: e00e2e10-fbb5-4295-b778-09b82caa1a9f
     type: content
-  - name: Was wir sehen
-    id: d14af68a-d2f9-4b43-b340-f7f69317ee87
-    type: content
   - name: Was wir wissen
     id: ae6e9406-69c7-4cd8-84aa-6be567054d78
+    type: content
+  - name: Was wir sehen
+    id: d14af68a-d2f9-4b43-b340-f7f69317ee87
     type: content
 title: Zarges|creative talent connection
 description: conception & consulting
