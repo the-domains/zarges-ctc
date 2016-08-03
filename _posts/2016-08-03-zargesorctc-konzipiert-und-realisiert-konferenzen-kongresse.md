@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-03T11:42:05.836Z'
+datePublished: '2016-08-03T11:56:55.083Z'
 sourcePath: >-
   _posts/2016-08-03-zargesorctc-konzipiert-und-realisiert-konferenzen-kongresse.md
 author: []
 via: {}
-dateModified: '2016-08-03T11:42:05.214Z'
+dateModified: '2016-08-03T11:56:54.703Z'
 title: Was wir tun
 publisher: {}
 description: >-
   Zarges|ctc konzipiert und realisiert Konferenzen, Kongresse, Seminare und
   Workshops für die Medien- und Entertainment-Industrie
 hasPage: true
-starred: false
+starred: true
 url: was-wir-tun/index.html
 _type: MediaObject
 
