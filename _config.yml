@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.749678515130654
 name: Zarges ctc
+navigation:
+  - name: Was wir tun
+    id: e00e2e10-fbb5-4295-b778-09b82caa1a9f
+    type: content
 title: Zarges|creative talent connection
 description: conception & consulting
