@@ -1,4 +1,3 @@
-layout_spectrum: 0.749678515130654
 typography_spectrum: 0.45806164015084505
 color:
   brandStrength: 0.9124477906152606
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.749678515130654
 name: Zarges ctc
 title: conception & consulting
+description: Kongresse & Seminare | Festivals & Awards | Screenwriting
